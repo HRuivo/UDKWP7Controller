@@ -39,6 +39,7 @@
   <ItemGroup>
     <Compile Include="*\Classes\*.uc" />
     <Compile Include="Classes\UDKWP7Game.uc" />
+    <Compile Include="Classes\UDKWP7SpaceShip.uc" />
     <Content Include="**\*.uci" />
   </ItemGroup>
   <ItemGroup>
