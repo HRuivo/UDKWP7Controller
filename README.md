@@ -3,6 +3,10 @@ UDK WP7 Controller
 
 UDK Game that receives input data from a WP7's accelerometer sensor.
 
+## Requirements
+This projects makes use of the [Windows Phone Accelerometer Driver for Windows 7](http://wp7accelerometer.codeplex.com/) project by [Arik Poznanski](http://blogs.microsoft.co.il/blogs/arik/) , for reading and enabling the use of the WP7 as a input device.
+
+
 ## Configuration
 ### Visual Studio - UDKWP7Controller
 At default the game project will not compile nor run, a valid UDK directory must be first specified.
