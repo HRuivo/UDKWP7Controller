@@ -1,9 +1,9 @@
-class UDKWP7Game extends GameInfo;
+class UDKWP7Game extends UTGame;
 
 DefaultProperties
 {
 	bDelayedStart=false
 
-	DefaultPawnClass=class'UDKPawn'
-	PlayerControllerClass=class'UDKPlayerController'
+	DefaultPawnClass=class'UTGame.UTPawn'
+	PlayerControllerClass=class'UTGame.UTPlayerController'
 }

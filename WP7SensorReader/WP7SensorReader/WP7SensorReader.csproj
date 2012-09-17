@@ -54,7 +54,7 @@
     <OutputPath>..\..\..\..\..\Binaries\Win32\UserCode\</OutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
-    <OutputPath>YourUDKDir\Binaries\Win32\UserCode\</OutputPath>
+    <OutputPath>..\..\..\..\..\..\UDK-07-2012\Binaries\Win32\UserCode\</OutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>bin\Release\</OutputPath>
